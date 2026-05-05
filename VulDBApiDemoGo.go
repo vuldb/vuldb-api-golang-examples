@@ -21,7 +21,7 @@ import (
 
 func main() {
 	// API URL
-	url := "https://vuldb.com/?api"
+	url := "https://vuldb.com/api"
 
 	// Headers for authentication
 	personalAPIKey := "" // Enter your personal API key here
